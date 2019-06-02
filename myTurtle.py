@@ -1,4 +1,6 @@
 from turtle import *
-forward(20)
+for i in range(4):
+    forward(20)
+    left(90)
 done()
 # only for testing upload to github
